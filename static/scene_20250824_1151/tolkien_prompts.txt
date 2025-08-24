@@ -1,0 +1,39 @@
+================================================================================
+TOLKIEN QUOTE AND VISUAL PROMPTS
+================================================================================
+
+ORIGINAL QUOTE:
+----------------------------------------
+"All that is gold does not glitter, Not all those who wander are lost; The old that is strong does not wither, Deep roots are not reached by the frost. From the ashes a fire shall be woken, A light from the shadows shall spring; Renewed shall be blade that was broken, The crownless again shall be king."
+
+GENERATED VISUAL PROMPTS:
+----------------------------------------
+## Scene Context Inference
+
+This profound poem, known as "The Riddle of Strider," is a key piece of Middle-earth lore, directly foretelling the true identity and destiny of Aragorn, heir of Isildur.
+
+*   **Characters Involved:** The poem is primarily recited by **Gandalf** to a group of bewildered Hobbits – **Frodo Baggins, Samwise Gamgee, Meriadoc Brandybuck, and Peregrin Took** – in the common room of The Prancing Pony in Bree. Aragorn, then known only as **Strider**, is present in the inn, often observing from the shadows, his true heritage carefully guarded but hinted at by Gandalf's words. Other background patrons of the inn may also be present, adding to the bustling atmosphere.
+*   **Setting:** The scene unfolds in the **Common Room of The Prancing Pony in Bree**. It is a **night** scene, characterized by the warm, flickering glow of a large **hearth fire** and numerous candles, casting dramatic shadows across the sturdy **wooden beams, stone walls, and rustic tables**. The air is likely thick with pipe-smoke, the scent of ale, and the murmur of conversation. The time period is the **late Third Age**, specifically October 3018, during the early stages of Frodo's journey to Rivendell. The environmental details include the cozy yet somewhat grimy interior of a well-used inn, contrasting with the dark, dangerous wilderness outside.
+*   **Mood and Tone:** The mood is a complex blend of **mystery, tension, and burgeoning hope**. The Hobbits are initially wary and confused, caught in a dangerous situation far from home. Gandalf's tone is wise, reassuring, and prophetic, aiming to guide and enlighten them about their mysterious companion. There's an underlying sense of ancient destiny beginning to unfold, a quiet power simmering beneath the surface of the mundane. The poem itself injects a tone of resilience, rebirth, and the triumph of hidden strength over superficiality.
+*   **Important Objects or Elements:** The central hearth fire is crucial, providing light and warmth, symbolizing the "fire from the ashes." The Hobbits' bewildered expressions, Gandalf's knowing gaze, Strider's shadowed figure and the subtle glint of his broken sword's hilt (Narsil) at his side are all vital. Tankards, wooden tables, and other typical inn paraphernalia contribute to the grounded, rustic feel of the scene, creating a mundane backdrop against which extraordinary destiny is revealed.
+
+## Visual Beats
+
+**PROMPT_1:**
+A masterful wizard, Gandalf the Grey, with his long white beard and a knowing gaze, recites a prophetic poem by a roaring hearth in the bustling common room of The Prancing Pony. Three hobbits, Frodo, Sam, and Pippin, sit captivated at a rustic wooden table, their faces illuminated by the flickering firelight, reflecting a mixture of confusion and wonder. Merry stands slightly behind them, peering over their shoulders. Cinematic chiaroscuro lighting, rich textures of old wood, rough stone, and worn fabric. High detail, Tolkien-style fantasy, Middle-earth aesthetic.
+
+**PROMPT_2:**
+A solitary figure, Aragorn (Strider), stands silhouetted against a dramatic twilight sky, atop a craggy, windswept ridge in the ancient wilds of Middle-earth. His weathered face, framed by dark, long hair, gazes into the distance with a stoic and resolute expression. He wears practical, dark ranger attire, with a heavy cloak billowing gently in the wind, embodying the "wanderer" and the "old that is strong." Ancient, gnarled trees with deep roots cling to the rocks around him. Golden hour light with deep blues and purples in the sky, rim lighting on his profile. Highly detailed, epic fantasy landscape.
+
+**PROMPT_3:**
+The reforged blade of Andúril, Flame of the West, gleams with a breathtaking brilliance. Its polished steel surface reflects a subtle, internal light, revealing the intricate elven script inscribed along its length. The hilt, adorned with a shining pommel stone, is held firmly in a strong, gloved hand, hinting at the destiny of the "crownless king." A soft, ethereal glow emanates from the blade against a dark, dramatic background. Close-up, high detail, exquisite craftsmanship, cinematic lighting, Numenorean and Elven artistry.
+
+**PROMPT_4:**
+The cozy yet shadowy common room of The Prancing Pony at night. A large, crackling fire casts warm, dancing light and deep shadows across the packed room, filled with diverse patrons. In a dimly lit corner, partially obscured by pipe smoke and the general hubbub, Aragorn (Strider) sits observing the room, his face partially hidden by the brim of his cowl. His presence is subtle but powerful, a mysterious figure embodying the hidden gold that does not glitter. Overhead wooden beams and rustic decorations are visible. Cinematic, atmospheric lighting, rich warm and cool tones, high detail on textures of wood, stone, and leather.
+
+**PROMPT_5:**
+A majestic, ancient oak tree with impossibly deep, gnarled roots that burrow into the very bedrock of a mountain. The tree's sturdy, dark trunk stands resilient, untouched by the frost that glitters on sparse mosses and rocks at its base, symbolizing "the old that is strong does not wither" and "deep roots are not reached by the frost." From the base of its mighty trunk, a subtle, ethereal golden-red light begins to emanate, like fire being woken from ashes, rising gently towards the branches. Cinematic dawn light, with mist weaving through the ancient forest, high detail, Middle-earth fantasy, symbolic.
+
+================================================================================
+Generated on: 2025-08-24 11:51:21
+================================================================================

@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:02,577
+The wise woman of the northern tower spoke
+
+2
+00:00:02,577 --> 00:00:05,153
+thus to the young king: "Power is not
+
+3
+00:00:05,153 --> 00:00:07,730
+in the strength of your sword-arm, nor in
+
+4
+00:00:07,730 --> 00:00:10,307
+the height of your throne. True sovereignty lies
+
+5
+00:00:10,307 --> 00:00:12,884
+in knowing when to speak and when to
+
+6
+00:00:12,884 --> 00:00:15,461
+listen, when to act and when to wait,
+
+7
+00:00:15,461 --> 00:00:18,039
+for the land itself will teach you its
+
+8
+00:00:18,039 --> 00:00:20,615
+needs if you have ears to hear."
+
