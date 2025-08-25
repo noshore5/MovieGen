@@ -64,7 +64,7 @@ def generate_speech_for_scene(scene_dir=None):
     # Call the TTS model
     with openai.audio.speech.with_streaming_response.create(
         model="gpt-4o-mini-tts",
-        voice="ash",   # Available voices: alloy, verse, aria, etc
+        voice="fable",   # Available voices: alloy, verse, aria, etc
         input=quote
     ) as response:
         response.stream_to_file(speech_file_path)

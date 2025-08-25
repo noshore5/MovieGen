@@ -114,7 +114,7 @@ def fetch_jamendo_track():
     licenses = ["by", "cc0"] 
     limit = 10
     licenses_str = ",".join(licenses)
-    tags = ["fantasy", "ambient"]  # track must be tagged both fantasy AND ambient
+    tags = ["ambient", "cinematic"]
     tags_str = ",".join(tags)
 
     instrumental_str = "true" if instrumental else "false"

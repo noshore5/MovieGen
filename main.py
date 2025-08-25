@@ -10,7 +10,7 @@ from qts import generate_speech_for_scene
 
 async def main():
     # Read all quotes from file
-    with open("tolkien_quotes.txt", encoding="utf-8") as f:
+    with open("makin_quotes.txt", encoding="utf-8") as f:
         quotes = [line.strip() for line in f if line.strip()]
 
     # Pick a random quote
