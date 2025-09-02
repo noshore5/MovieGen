@@ -1,0 +1,36 @@
+================================================================================
+TOLKIEN QUOTE AND VISUAL PROMPTS
+================================================================================
+
+ORIGINAL QUOTE:
+----------------------------------------
+"You dream of the sea every night. But this morning… there’s salt on your lips, sand on your feet, and a name carved into your arm: Poseidon’s Debt. You don’t remember owing him anything. Do you?"
+
+GENERATED VISUAL PROMPTS:
+----------------------------------------
+## Scene Context Inference
+The scene unfolds with a protagonist, likely a young man or woman, experiencing a disorienting awakening. The "You" in the quote suggests a direct address by an external, possibly supernatural or omniscient, observer or a manifestation of the protagonist's subconscious. The setting is a mystical, ancient-feeling coastline, a rugged beach at dawn, implying a liminal space between dream and reality. Environmental details include the immediate, physical sensations of salt on lips and sand on feet, contrasting sharply with the memory of dreaming. The pivotal element is a name, "Poseidon's Debt," carved deeply into the protagonist's arm, serving as a visceral and unwelcome mark of a forgotten, yet powerful, obligation. The time period leans towards an ancient or mythological era, or a modern world where ancient gods still hold sway. The mood is one of profound mystery, unsettling discovery, and a burgeoning sense of dread or impending doom. The tone is interrogative, almost taunting, hinting at a forgotten pact or a destiny thrust upon the protagonist, who is now left to grapple with an incomprehensible burden.
+
+## Visual Beats
+
+**PROMPT_1:**
+A young, rugged individual, eyes wide with a mixture of confusion and shock, slowly pushing themselves up from the sand. Their face is streaked with a faint sheen of salt spray, a single bead of moisture clinging to their lip. Fine grains of wet sand cling to their bare feet, which are just emerging from the receding tide line. Early morning light, a soft, ethereal glow, casts long shadows from the dunes behind them, giving the scene a dreamlike, disoriented quality. Cinematic wide shot, high detail, shallow depth of field.
+
+**PROMPT_2:**
+Extreme close-up on the inner forearm of the protagonist. Etched into the skin, deep and raw, is the phrase "Poseidon's Debt" in a stylized, ancient script, as if carved with a sharp shell or stone. The skin around the carving is slightly inflamed, a faint red outline, but not actively bleeding, suggesting it's freshly done but already part of the body. Tiny grains of sand are embedded in the deeper lines of the carving. The light is harsh and direct, emphasizing texture and detail, revealing the permanence of the mark.
+
+**PROMPT_3:**
+A breathtaking panoramic view of a wild, untouched coastline at dawn. Jagged, ancient rock formations rise from the crashing waves, shrouded in a thin, mystical mist that catches the golden-orange light of the rising sun. The sea is a turbulent, deep teal, with foamy whitecaps rolling onto a vast, empty stretch of coarse sand. The atmosphere is grand, imposing, yet subtly ominous, with the raw power of nature on full display. Ultra-wide shot, cinematic, high dynamic range.
+
+**PROMPT_4:**
+The protagonist, now fully upright, stands at the edge of the water, one hand instinctively clutching their marked arm. Their gaze is fixed on the vast, churning expanse of the ocean, a mix of fear, anger, and a desperate search for answers etched on their face. The wind whips their hair around them, and the distant roar of the waves seems to echo a name. The light is still golden, but a growing shadow seems to fall across their features, symbolizing the weight of the unknown. Medium shot, dramatic lighting, natural movement.
+
+**PROMPT_5:**
+A low-angle shot, focusing on the powerful, incoming waves. The water is a dark, swirling sapphire, hinting at immense depths and unseen forces beneath the surface. As a wave crests, for a fleeting moment, a ghostly, almost luminescent shimmer of ancient, indecipherable symbols seems to materialize within the foam before disappearing, leaving only the relentless churn of the sea. Ethereal lighting, high-speed capture, cinematic detail, hinting at an ancient, conscious entity.
+
+**PROMPT_6:**
+A solitary figure (the protagonist) stands silhouetted against the vast, dawning ocean. They are small and vulnerable against the immense backdrop of the sea and sky, embodying the concept of an individual confronting an ancient, insurmountable power. The light is diffused and soft, creating a sense of isolation and overwhelming destiny. The overall mood is somber and foreboding, a silent question hanging in the air: "Do you remember owing him anything?" Wide shot, epic scale, high detail.
+
+================================================================================
+Generated on: 2025-09-02 11:39:47
+================================================================================

@@ -8,3 +8,4 @@ __pycache__/
 .DS_Store
 *.log
 tkg/
+static/9*

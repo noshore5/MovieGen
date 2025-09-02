@@ -1,0 +1,56 @@
+================================================================================
+TOLKIEN QUOTE AND VISUAL PROMPTS
+================================================================================
+
+ORIGINAL QUOTE:
+----------------------------------------
+"The Oracle whispered your name before you were even born. She said you would betray the gods. But what she didn’t say… is which god you’ll betray first."
+
+GENERATED VISUAL PROMPTS:
+----------------------------------------
+## Scene Context Inference
+**Characters Involved:**
+*   **Speaker:** An ancient, enigmatic figure, shrouded in shadow and mystery. They possess immense knowledge of fate and the divine, possibly a prophet, a dark mentor, or an elder god themselves. Their demeanor is calm, confident, and perhaps subtly manipulative, reveling in the unfolding drama of destiny. They are addressing the listener directly, revealing a crucial, burdening prophecy.
+*   **Listener (The "You"):** The prophesied individual, carrying the weight of an extraordinary and dangerous destiny. They appear to be in a moment of intense realization or confrontation, their face reflecting a mix of shock, defiance, and the immense burden of their fate. They could be a young hero, a fallen deity, or a chosen champion, now grappling with the enormity of their pre-ordained role.
+*   **The Oracle:** Not physically present but a powerful, ethereal entity referenced in the past. She is a conduit of cosmic will, her voice a barely audible whisper carrying immense, immutable truth. She embodies ancient magic and foresight.
+*   **The Gods:** Implied as a pantheon of powerful, potentially oppressive, beings whose authority is about to be challenged. Their presence is felt through the very fabric of the setting and the weight of the prophecy.
+
+**Setting (Location, Time Period, Environmental Details):**
+*   **Location:** A secluded, ancient chamber deep within a forgotten temple, a subterranean cavern pulsing with faint mystical energy, or a grand, desolate ruin high in a mountain range. The space feels both sacred and forbidden, steeped in millennia of history and secrets.
+*   **Time Period:** A mythological or high-fantasy era, far removed from modern civilization. This is a time where gods directly influence the world, prophecies are absolute, and magic is a tangible force.
+*   **Environmental Details:** The chamber is dimly lit, perhaps by a single, flickering torch, a glowing crystal, or the eerie luminescence of a distant celestial body filtering through cracks. Ancient, eroded carvings of deities, celestial maps, or cryptic symbols adorn the stone walls, barely visible in the gloom. The air is cool, still, and heavy with the scent of damp stone, ancient dust, and a faint, electric tang of magic. Shadows dance, creating an atmosphere of oppressive mystery and foreboding. An altar, perhaps cracked or overgrown, stands at the center, hinting at past rituals.
+
+**Mood and Tone of the Scene:**
+*   **Mood:** Ominous, foreboding, and heavy with destiny. There is a palpable sense of suspense and the impending weight of an epic conflict. The atmosphere is tense, serious, and deeply mysterious, with a touch of cosmic irony in the speaker's final reveal.
+*   **Tone:** The speaker's tone is measured, deliberate, and darkly insightful, perhaps laced with a subtle challenge or a cynical amusement at the listener's predicament. It's a statement of inescapable fact, delivered with the gravity of an ancient truth being unveiled.
+
+**Important Objects or Elements:**
+*   The speaker's ancient, perhaps ceremonial, attire or staff, which might glow faintly.
+*   The elaborate, eroded carvings on the chamber walls, hinting at ancient gods and forgotten prophecies.
+*   A central altar or stone plinth, possibly bearing a faded symbol or an unlit brazier.
+*   The dramatic interplay of deep shadows and sparse light sources, emphasizing the mystery and isolation.
+*   The listener's expression, conveying the internal struggle and acceptance of a monumental fate.
+
+## Visual Beats
+
+**PROMPT_1:**
+A shadowy, ancient figure, cloaked in deep indigo robes embroidered with faded silver constellations, stands before a younger, intensely focused individual in a vast, crumbling stone chamber. The elder figure's face is obscured by a deep hood, but one hand, gnarled with age, gestures towards the listener. The listener's face is illuminated by a single, flickering torchlight, revealing a complex expression of dawning realization and defiant resolve. Cinematic lighting, dramatic chiaroscuro, high detail, mythical realism.
+
+**PROMPT_2:**
+An ethereal, spectral vision of an ancient Oracle, her form composed of swirling mist and starlight, her eyes glowing faintly in a deep, sacred cavern. Her lips are barely parted, seemingly whispering secrets that ripple through the air as faint, glowing runes. Ancient cave paintings and luminescent crystals adorn the cavern walls, casting a mystical, otherworldly glow. Ultra-wide shot, dreamlike quality, high fantasy art.
+
+**PROMPT_3:**
+A close-up, high-detail shot of the listener's face. Their eyes are wide, reflecting the flickering torchlight, filled with a mixture of shock, the immense burden of a prophecy, and a flicker of defiant acceptance. A single tear might trace a path down their cheek, or their jaw might be subtly clenched. Veins are faintly visible on their temple. Extreme detail, expressive portrait, dramatic lighting emphasizing emotion.
+
+**PROMPT_4:**
+A breathtaking wide shot of the vast, ancient temple chamber. Massive, moss-covered stone pillars stretch towards a vaulted, unseen ceiling, barely lit by shafts of moonlight piercing through high, crumbling apertures. Faded frescoes depicting the downfall of ancient empires and the rise of forgotten gods adorn the walls. The air is thick with dust motes dancing in the light, conveying immense age and forgotten power. Grand scale, atmospheric, epic fantasy architecture.
+
+**PROMPT_5:**
+A symbolic visual of 'betraying the gods.' A shadowy, solitary figure stands at a crossroads, one path leading towards a pantheon of radiant, but stern, divine statues, the other towards a swirling vortex of dark, chaotic energy. The ground is cracked beneath their feet, and faint cracks appear on the surface of the nearest divine statue. The air is charged with tension and conflicting magical energies. Dynamic composition, high contrast, dark fantasy illustration.
+
+**PROMPT_6:**
+A solitary figure, the prophesied individual, stands at the edge of a high cliff overlooking a sprawling, ancient world bathed in the pale light of dawn. The path behind them is obscured by mist, and multiple, winding paths stretch out into the unknown landscape ahead, leading towards different, distant landmarks – a gleaming city, a shadowed mountain, a dark forest. Their back is to the viewer, their silhouette resolute against the vast, uncertain future. Epic scale, cinematic wide shot, rich environmental detail, sense of immense choice and open destiny.
+
+================================================================================
+Generated on: 2025-09-02 11:54:46
+================================================================================

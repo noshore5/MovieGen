@@ -44,7 +44,7 @@ def generate_random_zoompan(duration_frames):
     """Generate random zoompan parameters for Ken Burns effect"""
     # Random zoom start and end values
     zoom_start = random.uniform(1.0, 1.4)
-    zoom_end = random.uniform(1.2, 2.0)
+    zoom_end = random.uniform(1.2, 1.5)
     
     # 50% chance to reverse zoom direction (zoom out instead of in)
     if random.choice([True, False]):
@@ -408,8 +408,8 @@ if result_audio.returncode == 0:
     for temp_clip in temp_clips:
         if os.path.exists(temp_clip):
             os.remove(temp_clip)
-    if os.path.exists(temp_video):
-        os.remove(temp_video)
+    #if os.path.exists(temp_video):
+        #os.remove(temp_video)
     if os.path.exists(concat_file):
         os.remove(concat_file)
     print("✅ Cleanup complete!")

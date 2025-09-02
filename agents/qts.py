@@ -55,7 +55,6 @@ def generate_speech_for_scene(scene_dir=None):
         raise RuntimeError(f"No prompts file found at {prompt_file}")
     
     quote = extract_original_quote(prompt_file)
-    
     if not quote:
         raise RuntimeError("No original quote found in scene prompts file.")
 

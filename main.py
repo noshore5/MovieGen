@@ -8,14 +8,16 @@ from promptgen import generateprompts, save_prompts_to_file
 from imagegen import main as imagegen_main
 from qts import generate_speech_for_scene
 
+text = "At the edge of the village, the river Styx looks like any other stream. Until midnight, when coins float against the current, and voices beg you not to pick them up. Last night… you did."
+
 async def main():
     # Read all quotes from file
     with open("makin_quotes.txt", encoding="utf-8") as f:
         quotes = [line.strip() for line in f if line.strip()]
 
     # Pick a random quote
-    quote = random.choice(quotes)
-
+    #quote = random.choice(quotes)
+    quote = text
     # Create a short timestamp
     timestamp = datetime.now().strftime("%Y%m%d_%H%M")
     scene_dir = os.path.join("static", f"scene_{timestamp}")
